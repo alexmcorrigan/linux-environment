@@ -1,0 +1,39 @@
+2017/03/25-18:38:06.814 2941 Reusing MANIFEST /home/amcorrigal/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2017/03/25-18:38:06.814 2941 Recovering log #219
+2017/03/25-18:38:06.819 2941 Reusing old log /home/amcorrigal/.config/google-chrome/Default/Extension State/000219.log 
+2017/03/26-07:48:03.151 3104 Level-0 table #223: started
+2017/03/26-07:48:03.266 3104 Level-0 table #223: 4163809 bytes OK
+2017/03/26-07:48:03.290 3104 Delete type=0 #219
+2017/03/26-08:45:55.908 3104 Level-0 table #225: started
+2017/03/26-08:45:56.073 3104 Level-0 table #225: 4194793 bytes OK
+2017/03/26-08:45:56.124 3104 Delete type=0 #222
+2017/03/26-08:45:56.125 3104 Compacting 4@0 + 1@1 files
+2017/03/26-08:45:56.315 3104 Generated table #226@0: 3 keys, 9651 bytes
+2017/03/26-08:45:56.315 3104 Compacted 4@0 + 1@1 files => 9651 bytes
+2017/03/26-08:45:56.341 3104 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/03/26-08:45:56.341 3104 Delete type=2 #217
+2017/03/26-08:45:56.341 3104 Delete type=2 #225
+2017/03/26-08:45:56.342 3104 Delete type=2 #214
+2017/03/26-08:45:56.342 3104 Delete type=2 #223
+2017/03/26-08:45:56.343 3104 Delete type=2 #220
+2017/03/26-09:44:28.795 3104 Level-0 table #228: started
+2017/03/26-09:44:28.947 3104 Level-0 table #228: 4194206 bytes OK
+2017/03/26-09:44:29.006 3104 Delete type=0 #224
+2017/03/26-11:02:21.351 3104 Level-0 table #230: started
+2017/03/26-11:02:21.509 3104 Level-0 table #230: 4196095 bytes OK
+2017/03/26-11:02:21.535 3104 Delete type=0 #227
+2017/03/26-18:51:44.189 3104 Level-0 table #232: started
+2017/03/26-18:51:44.339 3104 Level-0 table #232: 4178542 bytes OK
+2017/03/26-18:51:44.407 3104 Delete type=0 #229
+2017/03/26-21:09:45.956 3104 Level-0 table #234: started
+2017/03/26-21:09:46.244 3104 Level-0 table #234: 4195273 bytes OK
+2017/03/26-21:09:46.345 3104 Delete type=0 #231
+2017/03/26-21:09:46.354 3104 Compacting 4@0 + 1@1 files
+2017/03/26-21:09:46.560 3104 Generated table #235@0: 3 keys, 9651 bytes
+2017/03/26-21:09:46.560 3104 Compacted 4@0 + 1@1 files => 9651 bytes
+2017/03/26-21:09:46.652 3104 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/03/26-21:09:46.652 3104 Delete type=2 #234
+2017/03/26-21:09:46.653 3104 Delete type=2 #228
+2017/03/26-21:09:46.670 3104 Delete type=2 #226
+2017/03/26-21:09:46.670 3104 Delete type=2 #230
+2017/03/26-21:09:46.672 3104 Delete type=2 #232
