@@ -1,6 +1,7 @@
 #!/bin/bash
 
 CLI_PACKAGES=( vim zsh wget curl tidy tmux unzip openssh-client cowsays )
+LEKTOR_DEPENDENCIES=( build-essential python-dev libssl-dev libffi-dev imagemagick )
 
 install_package() {
     echo "          - $1"
@@ -17,3 +18,4 @@ install_package_group() {
 
 echo '      - CLI Packages'
 install_package_group CLI_PACKAGES[@]
+install_package_group LEKTOR_DEPENDENCIES[@]

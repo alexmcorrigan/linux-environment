@@ -6,7 +6,7 @@ SCRIPTS_DIR='./new_environment_scripts'
 
 run_script() {
     echo "  - $1"
-    ./$SCRIPTS_DIR/$1.sh
+    $SCRIPTS_DIR/$1.sh
 }
 
 run_script update
