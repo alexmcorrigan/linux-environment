@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CLI_PACKAGES=( vim zsh wget curl tidy tmux unzip openssh-client )
+CLI_PACKAGES=( vim zsh wget curl tidy tmux unzip openssh-client cowsays )
 
 install_package() {
     echo "          - $1"

@@ -111,3 +111,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 alias ll='ls -lA --color'
 alias ws="cd ${WORKSPACE}"
 alias vi='vim'
+
+# new shell
+clear
+source ~/motd.sh

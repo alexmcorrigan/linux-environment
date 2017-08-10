@@ -11,5 +11,6 @@ run_script() {
 
 run_script backup_dotfiles
 run_script backup_home_scripts
+run_script backup_others
 
 echo "All Done."
